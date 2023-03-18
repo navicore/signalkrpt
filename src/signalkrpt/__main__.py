@@ -13,7 +13,6 @@ def main():
     parser = argparse.ArgumentParser(description='Generate and move boats in Signal K format')
     parser.add_argument('--gen-scatterplot', action='store_true', help='Generate scatter-plot')
     parser.add_argument('--gen-dot', action='store_true', help='Generate dot diagram')
-    parser.add_argument('--delta-data-model', action='store_true', help='Generate delta data model')
     args = parser.parse_args()
 
     if args.gen_dot:

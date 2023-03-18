@@ -41,7 +41,10 @@ Usage
 ----------
 
 ```
-cat myfile.json | signalkrpt
+signalkrpt -h
+
+cat myfile.json | signalkrpt --gen-dot
+cat myfile.json | signalkrpt --gen-scatterplot
 ```
 
 ![Fun Mutation of Dot Output](docs/boats1.png)
