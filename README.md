@@ -48,5 +48,4 @@ cat myfile.json | signalkrpt --gen-scatterplot
 ```
 
 ![Fun Mutation of Dot Output](docs/boats1.png)
-![Fun Mutation of Dot Output](docs/boats3.png)
 ![Fun Mutation of Dot Output](docs/boats4.png)
