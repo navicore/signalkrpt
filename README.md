@@ -13,7 +13,7 @@ Status
 
 * TODO
 
-![Fun Mutation of Dot Output](docs/boats3.png)
+![Fun Mutation of Dot Output](docs/boats1.png)
 
 
 Installing
@@ -25,10 +25,12 @@ via [Pypi](https://pypi.org/project/signalkrpt/)
 python -m pip install signalkrpt
 ```
 
-Or install with "editing" mode from cloned repo for development of the code.
+![Fun Mutation of Dot Output](docs/boats2.png)
 
+Developing
+-----------
 
-virtualenv
+Install with "editing" mode from cloned repo for development of the code.
 
 ```
 python -m venv venv
@@ -39,6 +41,8 @@ python -m pip install --upgrade matplotlib
 python -m pip install -e .
 ```
 
+![Fun Mutation of Dot Output](docs/boats3.png)
+
 Usage
 ----------
 
@@ -46,4 +50,4 @@ Usage
 cat myfile.json | signalkrpt
 ```
 
-![Fun Mutation of Dot Output](docs/boats1.png)
+![Fun Mutation of Dot Output](docs/boats4.png)
