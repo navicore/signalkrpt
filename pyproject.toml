@@ -17,6 +17,8 @@ classifiers = [
     "Programming Language :: Python :: 3",
 ]
 dependencies = [
+    "matplotlib",
+    "tox"
 ]
 [project.scripts]
 signalkrpt = "signalkrpt.__main__:main"
