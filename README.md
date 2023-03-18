@@ -13,8 +13,7 @@ Status
 
 * TODO
 
-![Fun Mutation of Dot Output](docs/boats2.png)
-
+![Fun Mutation of Dot Output](docs/boats1.png)
 
 Installing
 -----------
@@ -47,5 +46,4 @@ cat myfile.json | signalkrpt --gen-dot
 cat myfile.json | signalkrpt --gen-scatterplot
 ```
 
-![Fun Mutation of Dot Output](docs/boats1.png)
 ![Fun Mutation of Dot Output](docs/boats4.png)
