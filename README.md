@@ -11,7 +11,8 @@ see: https://signalk.org/specification/1.7.0/doc/data_model.html
 Status
 ----------
 
-* TODO
+* UNDER CONSTRUCTION
+* basic dot and scatter diagram output - NOT USEFUL yet
 
 ![Fun Mutation of Dot Output](docs/boats1.png)
 
