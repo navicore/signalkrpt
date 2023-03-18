@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "signalkrpt"
+authors = [
+    {name = "Ed Sweeney", email = "ed@onextent.com"},
+]
+description = "Diagram and report generator for Signal K marine data"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.11"
+keywords = ["json", "reports", "diagrams", "signal-k"]
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+]
+[project.scripts]
+signalkrpt = "signalkrpt.__main__:main"
