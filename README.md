@@ -14,8 +14,6 @@ Status
 * UNDER CONSTRUCTION
 * basic dot and scatter diagram output - NOT USEFUL yet
 
-![Fun Mutation of Dot Output](docs/boats1.png)
-
 Installing
 -----------
 
@@ -47,4 +45,3 @@ cat myfile.json | signalkrpt --gen-dot
 cat myfile.json | signalkrpt --gen-scatterplot
 ```
 
-![Fun Mutation of Dot Output](docs/boats4.png)
